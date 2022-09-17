@@ -1,16 +1,16 @@
-Text en bleu:
+Text en bleu (avec markdown) :
 
 ```markdown 
 #text
 ```
 
-Text en vert:
+Text en vert (avec css) :
 
 ```css
 TEXTE
 ```
 
-Texte en rouge:
+Texte en rouge ( avec - diff) :
 
 ```diff
 - Texte
